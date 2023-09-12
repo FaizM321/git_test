@@ -1,0 +1,2 @@
+my text for hello world
+practise for odin project!
